@@ -6,6 +6,17 @@ p  {
 #main {
     width:700px;
     margin: 0px  auto;
+}
 
+ul{
+    list-style-type: none;
+    background-color: blue;
+    font-size: 20px;
+}
 
+li{
+    width: 40px;
+    height: 40px;
+    float: left;
+    
 }
