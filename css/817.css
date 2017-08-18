@@ -10,13 +10,16 @@ p  {
 
 #nav{
     list-style-type: none;
-    background-color: blue;
+   
     font-size: 20px;
 }
 
 #nav>li{
-    width: 250px;
-    height: 250px;
+    width: 80px;
+    height: 150px;
     float: left;
+     background-color: blue;
+     color: red;
+
 
 }
