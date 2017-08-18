@@ -4,19 +4,19 @@ p  {
 }
 
 #main {
-    width:700px;
+    width:1000px;
     margin: 0px  auto;
 }
 
-ul{
+#nav{
     list-style-type: none;
     background-color: blue;
     font-size: 20px;
 }
 
-li{
-    width: 40px;
-    height: 40px;
+#nav>li{
+    width: 250px;
+    height: 250px;
     float: left;
-    
+
 }
