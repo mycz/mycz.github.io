@@ -15,11 +15,29 @@ p  {
 }
 
 #nav>li{
-    width: 80px;
-    height: 150px;
+    width: 200px;
+    height: 40px;
     float: left;
      background-color: blue;
      color: red;
+     margin-left: 5px;
+     border-radius: 
 
 
 }
+
+body{
+    width: 10px;
+    height: 10px;
+    font: 10px; 
+    margin: 10px;
+    padding: 10px;
+    padding-left: 10px;
+    border-right: 10px;
+    font-family: 
+    width:10;
+    list-style-type: 
+
+
+}
+
